@@ -11,3 +11,8 @@ Top-Selling Items and Worst Sellers: Identify the most popular  and worst pizza 
 Customer Insights: Analyze customer purchase patterns and frequency.
 
 Time-Based Trends: Track sales trends by day, week, month.
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9e00c160-9850-4aa7-bcbd-8bf6378d2d84" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e9caa27c-fded-4663-9a7f-146d8f6b9d73" />
+
